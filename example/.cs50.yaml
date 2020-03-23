@@ -1,13 +1,1 @@
-check50:
-  checks:
-    hello world:
-      - run: python3 hello.py
-        stdout: Hello, world!
-        exit: 0
-    teisingai tikrina:
-      - run: python3 test.py
-        stdin: ivestis
-        stdout: isvestis
-      - run: python3 test.py
-        stdin: betkas
-        stdout: kas
+lab50: true
