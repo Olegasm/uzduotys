@@ -1,7 +1,7 @@
 lab50:
   windows:
     - editor
-    - terminal
+    - browser
     - readme
   files:
     - !exclude "*"
