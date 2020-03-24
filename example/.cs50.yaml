@@ -3,11 +3,5 @@ check50:
     - !exclude "*"
     - !require U1.c
 
-lab50:
-  files:
-    - !exclude "*"
-    - !include "U1.c"
-    - !include "U1.txt"
-
 submit50:
   files: *check50_files
