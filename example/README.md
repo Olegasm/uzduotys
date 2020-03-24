@@ -2,6 +2,6 @@
 
 Instrukcijos požingsniui, kaip pasiruošti IT egzaminui programavimo užduočiai
 
-{%1 zingsnis%}
+{%1_zingsnis%}
 
 ## Pirmo zingsnio intrukcijos
