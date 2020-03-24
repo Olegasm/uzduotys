@@ -24,6 +24,7 @@ Something
 
 ```
 code block
+more than 1 line
 ```
 
-'foo'
+`lonely one line`
