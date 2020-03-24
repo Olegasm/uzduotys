@@ -2,4 +2,4 @@
 
 Instrukcijos IT egzaminui pasiruošti
 
-{%pirma_instrukcija%}
+{%next%}
