@@ -1,2 +1,6 @@
 lab50: ture
 submit50: true
+  files:
+    - !exclude "*"
+    - !include "*.c"
+    - !require hello.py
