@@ -1,7 +1,4 @@
-lab50:
-  files:
-    - "U1.c"
-    - "VBE_IT_2019.pdf"
+lab50: true
 submit50:
   files:
     - !exclude "*"
