@@ -1,8 +1,8 @@
 # IV. Programavimo praktinės užduotys
 
-`Maksimalus vertinimas – 50 taškų:
+Maksimalus vertinimas – 50 taškų:
 * Aliejus - 20 taškų
-* Sportas - 30 taškų'
+* Sportas - 30 taškų
 
 ## 1 užduotis. Aliejus 
 
