@@ -1,6 +1,7 @@
 # Mokytojams ir besimokantiesiems
 
-Žemiau pateiksime, kaip atlikti 2019 metų IT egzamino pirmą programavimo užduotį. Informacija bus pateikta žingsniai.
+Žemiau pateiksime, kaip atlikti 2019 metų IT egzamino pirmą programavimo užduotį „Aliejus“.
+Informacija bus pateikta žingsniai.
 
 {% next "pirmas" %}
 
