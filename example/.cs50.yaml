@@ -1,4 +1,4 @@
 lab50:
-  file:
+  files:
    - !exclude "*"
    - !include "foo.c"
