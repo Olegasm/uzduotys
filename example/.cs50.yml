@@ -1,9 +1,1 @@
-  lab50:
-    windows:
-     - editor
-     - browser
-     - readme
-    files:
-     - !exclude "*"
-     - !include mario.c
-     - !include pseudocode.txt
+
