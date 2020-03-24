@@ -12,7 +12,7 @@ vieno litro indus. Nepilnai užpildyto indo neturi būti. Indų aliejui pilstyti
 arba per mažai.
 
 
-> * Parašykite programą, kuri suskaičiuotų:
+> Parašykite programą, kuri suskaičiuotų:
 >   * kiek buvo pripilta turimų vieno, trijų ir penkių litrų indų ir kiek litrų aliejaus liko neišpilstyta;
 >   * kiek vieno, trijų ir penkių litrų indų papildomai reikėtų įsigyti, norint tuo pačiu būdu išpilstyti visą
 likusį aliejų;
