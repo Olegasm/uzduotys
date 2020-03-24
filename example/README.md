@@ -1,6 +1,6 @@
 # Mokytojams ir besimokantiesiems
 
-blah
+Žemiau pateiksime, kaip atlikti 2019 metų IT egzamino pirmą programavimo užduotį. Informacija bus pateikta žingsniai.
 
 {% next "pirmas" %}
 
