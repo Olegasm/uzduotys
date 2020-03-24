@@ -1,4 +1,8 @@
 lab50:
+  windows:
+    - editor
+    - terminal
   files:
     - !exclude "*"
     - !include mario.c
+    - !include pseudocode.txt
