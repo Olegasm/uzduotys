@@ -2,6 +2,7 @@ lab50:
   windows:
     - editor
     - terminal
+    - readme
   files:
     - !exclude "*"
     - !include mario.c
