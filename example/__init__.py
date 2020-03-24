@@ -5,6 +5,7 @@ import check50.c
 def exists():
     """hello.c egzistuoja"""
     check50.exists("U1.c")
+    check50.include("8.txt")
     
 @check50.check(exists)
 def compiles():
