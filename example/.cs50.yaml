@@ -3,3 +3,8 @@ lab50:
     - !exclude "*"
     - !include "U1.c"
     - !include "U1.txt"
+
+check50:
+  files:
+    - !exclude "*"
+    - !require U1.c
