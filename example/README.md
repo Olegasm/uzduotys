@@ -22,5 +22,6 @@ Something
 
 {% endspoiler %}
 
-codeblock
+code block
+
   blob
