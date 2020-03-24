@@ -45,8 +45,8 @@ nebus, rašykite nulį. Jeigu bus nuostolis, užrašykite, koks (neigiamuoju ska
 
 ## Nurodymai
 
-* Sukurkite ir parašykite funkciją^1 , kuri suskaičiuotų, kiek buvo panaudota nurodytos talpos indų ir
+* Sukurkite ir parašykite funkciją<sup>1</sup> , kuri suskaičiuotų, kiek buvo panaudota nurodytos talpos indų ir
 kiek litrų aliejaus liko neišpilstyta.
 * Programoje nenaudokite sakinių, skirtų darbui su ekranu.
 
-(^1) Pascal programavimo kalboje turi būti procedūra.
+<sup>1</sup> Pascal programavimo kalboje turi būti procedūra.
