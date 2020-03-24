@@ -1,1 +1,3 @@
-
+lab50:
+  files:
+    - !include "U1.c"
