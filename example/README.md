@@ -21,7 +21,7 @@ gamybos išlaidas.
 
 ## Pradiniai duomenys
 
-```
+
 Duomenys pateikiami tekstiniame faile U1.txt.
 Duomenų faile įrašyta:
  pirmoje eilutėje užrašyti keturi skaičiai: turimų vieno, trijų ir penkių litrų indų skaičiai
@@ -30,10 +30,10 @@ k ( 1  k  1000 ).
  antroje eilutėje užrašyti keturi skaičiai: aliejaus gamybos išlaidos, vieno, trijų ir penkių litrų indų
 su aliejumi pardavimo kainos.
 Skaičiai atskirti vienu tarpo simboliu. Visi skaičiai yra sveikieji.
-```
+
 ## Rezultatai
 
-```
+
 Rezultatus pateikite tekstiniame faile U1rez.txt.
  Pirmoje eilutėje įrašykite, kiek buvo pripilta ūkininko turimų vieno, trijų ir penkių litrų indų ir
 kiek litrų aliejaus liko neišpilstyta. Jeigu kurios nors talpos indai nepanaudoti, rašykite nulį. Jeigu
@@ -44,12 +44,12 @@ atitinkamos talpos indai buvo panaudoti, rašykite nulį.
 norint išpilstyti visą likusį aliejų. Jeigu aliejaus neliko, įrašykite tris nulius.
  Ketvirtoje eilutėje įrašykite, koks bus gautas pelnas, pardavus visus indus su aliejumi. Jeigu pelno
 nebus, rašykite nulį. Jeigu bus nuostolis, užrašykite, koks (neigiamuoju skaičiumi).
-```
+
 ## Nurodymai
 
-```
+
  Sukurkite ir parašykite funkciją^1 , kuri suskaičiuotų, kiek buvo panaudota nurodytos talpos indų ir
 kiek litrų aliejaus liko neišpilstyta.
  Programoje nenaudokite sakinių, skirtų darbui su ekranu.
-```
+
 (^1) Pascal programavimo kalboje turi būti procedūra.
