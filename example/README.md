@@ -2,9 +2,8 @@
 
 `Maksimalus vertinimas – 50 taškų`
 
-## 1 užduotis. Aliejus
+## 1 užduotis. Aliejus 'Maksimalus vertinimas – 20 taškų'
 
-*Maksimalus vertinimas – 20 taškų*
 Ūkininkas išspaustą aliejų išpilsto į turimus vieno litro, trijų litrų ir penkių litrų indus. Pirmiausia
 aliejus pilamas į penkių litrų indus. Po to, jeigu reikia, – į trijų litrų indus, galiausiai, jeigu reikia, – į
 vieno litro indus. Nepilnai užpildyto indo neturi būti. Indų aliejui pilstyti gali būti pakankamai, per daug
