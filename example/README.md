@@ -5,20 +5,20 @@ Maksimalus vertinimas – 50 taškų
 ```
 ## 1 užduotis. Aliejus
 
-Maksimalus vertinimas _–_ 20 _taškų_
+*Maksimalus vertinimas – 20 taškų*
 Ūkininkas išspaustą aliejų išpilsto į turimus vieno litro, trijų litrų ir penkių litrų indus. Pirmiausia
 aliejus pilamas į penkių litrų indus. Po to, jeigu reikia, – į trijų litrų indus, galiausiai, jeigu reikia, – į
 vieno litro indus. Nepilnai užpildyto indo neturi būti. Indų aliejui pilstyti gali būti pakankamai, per daug
 arba per mažai.
 
-```
-Parašykite programą, kuri suskaičiuotų:
- kiek buvo pripilta turimų vieno, trijų ir penkių litrų indų ir kiek litrų aliejaus liko neišpilstyta;
- kiek vieno, trijų ir penkių litrų indų papildomai reikėtų įsigyti, norint tuo pačiu būdu išpilstyti visą
+
+* Parašykite programą, kuri suskaičiuotų:
+  * kiek buvo pripilta turimų vieno, trijų ir penkių litrų indų ir kiek litrų aliejaus liko neišpilstyta;
+  * kiek vieno, trijų ir penkių litrų indų papildomai reikėtų įsigyti, norint tuo pačiu būdu išpilstyti visą
 likusį aliejų;
- koks bus gautas pelnas, pardavus visus indus su aliejumi; visų indų kainos įskaičiuotos į aliejaus
+  * koks bus gautas pelnas, pardavus visus indus su aliejumi; visų indų kainos įskaičiuotos į aliejaus
 gamybos išlaidas.
-```
+
 ## Pradiniai duomenys
 
 ```
