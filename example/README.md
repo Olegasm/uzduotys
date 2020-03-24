@@ -19,3 +19,5 @@ Padaryk kitaip
 {% spoiler "blah" %}
 
 Something
+
+{% endspoiler %}
