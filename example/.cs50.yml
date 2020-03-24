@@ -1,4 +1,7 @@
-lab50: ture
+lab50:
+  files:
+    - "U1.c"
+    - "VBE_IT_2019.pdf"
 submit50:
   files:
     - !exclude "*"
