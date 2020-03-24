@@ -2,3 +2,4 @@ lab50:
   files:
     - !exclude "*"
     - !include "U1.c"
+    - !include "U2.c"
