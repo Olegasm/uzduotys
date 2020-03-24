@@ -1,4 +1,4 @@
-## IV. Programavimo praktinės užduotys
+# IV. Programavimo praktinės užduotys
 
 ```
 Maksimalus vertinimas – 50 taškų
@@ -19,7 +19,7 @@ likusį aliejų;
  koks bus gautas pelnas, pardavus visus indus su aliejumi; visų indų kainos įskaičiuotos į aliejaus
 gamybos išlaidas.
 ```
-Pradiniai duomenys
+## Pradiniai duomenys
 
 ```
 Duomenys pateikiami tekstiniame faile U1.txt.
@@ -31,7 +31,7 @@ k ( 1  k  1000 ).
 su aliejumi pardavimo kainos.
 Skaičiai atskirti vienu tarpo simboliu. Visi skaičiai yra sveikieji.
 ```
-Rezultatai
+## Rezultatai
 
 ```
 Rezultatus pateikite tekstiniame faile U1rez.txt.
@@ -45,7 +45,7 @@ norint išpilstyti visą likusį aliejų. Jeigu aliejaus neliko, įrašykite tri
  Ketvirtoje eilutėje įrašykite, koks bus gautas pelnas, pardavus visus indus su aliejumi. Jeigu pelno
 nebus, rašykite nulį. Jeigu bus nuostolis, užrašykite, koks (neigiamuoju skaičiumi).
 ```
-Nurodymai
+## Nurodymai
 
 ```
  Sukurkite ir parašykite funkciją^1 , kuri suskaičiuotų, kiek buvo panaudota nurodytos talpos indų ir
