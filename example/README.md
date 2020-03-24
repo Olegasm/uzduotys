@@ -2,7 +2,7 @@
 
 blah
 
-{% next %}
+{% next "pirmas" %}
 
 ## Pirmasis zinsgnis
 
