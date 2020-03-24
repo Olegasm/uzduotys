@@ -22,8 +22,8 @@ Something
 
 {% endspoiler %}
 
-'''
+```
 code block
+```
 
-  blob
-'''
+'foo'
