@@ -4,4 +4,4 @@ lab50:
     - !include "U1.c"
     - !include "U2.c"
     - !include "blah.txt"
-    - !include "VBE_IT_2019"
+    - !include "VBE_IT_2019.pdf"
