@@ -1,6 +1,4 @@
-lab50: true
-submit50:
+lab50:
   files:
     - !exclude "*"
-    - !include "*.c"
-    - !require hello.py
+    - !include "U1.c"
