@@ -1,7 +1,7 @@
 # Mokytojams ir besimokantiesiems
 
-Instrukcijos požingsniui, kaip pasiruošti IT egzaminui programavimo užduočiai
+blah
 
 {%pirmas%}
 
-## Pirmo zingsnio intrukcijos
+## blah
