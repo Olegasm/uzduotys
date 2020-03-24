@@ -1,8 +1,10 @@
 # IV. Programavimo praktinės užduotys
 
-`Maksimalus vertinimas – 50 taškų`
+`Maksimalus vertinimas – 50 taškų:
+* Aliejus - 20 taškų
+* Sportas - 30 taškų'
 
-## 1 užduotis. Aliejus 'Maksimalus vertinimas – 20 taškų'
+## 1 užduotis. Aliejus 
 
 Ūkininkas išspaustą aliejų išpilsto į turimus vieno litro, trijų litrų ir penkių litrų indus. Pirmiausia
 aliejus pilamas į penkių litrų indus. Po to, jeigu reikia, – į trijų litrų indus, galiausiai, jeigu reikia, – į
