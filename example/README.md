@@ -1,7 +1,7 @@
 # Mokytojams ir besimokantiesiems
 
-Instrukcijos IT egzaminui pasiruošti
+Instrukcijos požingsniui, kaip pasiruošti IT egzaminui programavimo užduočiai
 
-{%next%}
+{%1 žingsnis%}
 
 ## Pirmo zingsnio intrukcijos
