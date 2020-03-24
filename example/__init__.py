@@ -9,4 +9,4 @@ def exists():
 @check50.check(exists)
 def compiles():
     """U1.c compiles."""
-    check50.c.compile("U1o.c", lcs50=True)
+    check50.c.compile("U1.c", lcs50=True)
