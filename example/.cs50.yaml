@@ -2,9 +2,11 @@ check50:
   files:
     - !exclude "*"
     - !require U1.c
+    - !require U1rez.txt
 
 lab50:
   files:
     - !exclude "*"
     - !include "U1.c"
     - !include "U1.txt"
+    - !include "U1rez.txt"
