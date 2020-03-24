@@ -22,14 +22,14 @@ gamybos išlaidas.
 ## Pradiniai duomenys
 
 
-`Duomenys pateikiami tekstiniame faile U1.txt.
+Duomenys pateikiami tekstiniame faile U1.txt.
 Duomenų faile įrašyta:
  pirmoje eilutėje užrašyti keturi skaičiai: turimų vieno, trijų ir penkių litrų indų skaičiai
 n1, n3, n 5 ( 1  n1, n 3 , n 5  35 ) ir išspausto aliejaus litrų skaičius
 k ( 1  k  1000 ).
  antroje eilutėje užrašyti keturi skaičiai: aliejaus gamybos išlaidos, vieno, trijų ir penkių litrų indų
 su aliejumi pardavimo kainos.
-Skaičiai atskirti vienu tarpo simboliu. Visi skaičiai yra sveikieji.`
+Skaičiai atskirti vienu tarpo simboliu. Visi skaičiai yra sveikieji.
 
 ## Rezultatai
 
