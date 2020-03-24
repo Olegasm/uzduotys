@@ -2,4 +2,4 @@ lab50:
   files:
     - !exclude "*"
     - !include "U1.c"
-    - !include "blah.txt"
+    - !include "U1.txt"
