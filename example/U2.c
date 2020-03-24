@@ -2,5 +2,5 @@
 
 int main(void)
 {
-  printf("testuoja ar ir sita file'a prides prie cs50 lab");
+  printf("testuojame ar ir sita file'a prides prie cs50 lab");
 }
