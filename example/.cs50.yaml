@@ -1,7 +1,10 @@
 check50:
-  files:
+  files: %check50_files
     - !exclude "*"
     - !require U1.c
+
+submit50:
+  files: *check50_files
 
 lab50:
   files:
