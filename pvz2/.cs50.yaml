@@ -2,3 +2,4 @@ lab50:
   files:
     - !exclude "*"
     - !include "blah.c"
+    - !include "random.txt"
