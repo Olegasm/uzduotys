@@ -59,8 +59,16 @@ kiek litrų aliejaus liko neišpilstyta.
 
 # Tutorial, kaip išpręsti užduotį požingsniui
 
-Vaizdo medžiaga analizuojanti užduoties sąlygą
+## 1 žingsnis: suprastį užduoties sąlygą
 
+{% spoiler "Vaizdo medžia" %}
 {% video https://youtu.be/VtBuu8oIkFg %}
+{% endspoiler %}
+
+{% spoiler "Tekstinis vedlys" %}
+You can do it
+{% endspoiler %}
+
+## 2 žingsnis: 
 
 {% endspoiler %}
