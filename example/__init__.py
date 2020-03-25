@@ -26,3 +26,5 @@ def test1():
 def compare_files(output, correct):
     if output == correct:
         return
+    elif:
+        return false
