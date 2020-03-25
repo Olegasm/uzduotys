@@ -19,8 +19,9 @@ def isOutput():
     
 @check50.check(compiles)
 def test1():
-    """handles a height of 8 correctly"""
-    compare_files(open("U1rez.txt").read(), open("1.txt").read())
+    """tikrina rezultatą"""
+    out = check50.run("./U1 U1rez.txt").stdout()
+    compare_files(out, open("1.txt").read())
     
 def compare_files(output, correct):
     if output == correct:
