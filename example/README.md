@@ -1,3 +1,5 @@
+# Tutorial „išpręskime VBE IT užduotį“
+
 {% spoiler "IT egzamino uzduotis :scream:"%}
 
 # IV. Programavimo praktinės užduotys
@@ -57,7 +59,7 @@ kiek litrų aliejaus liko neišpilstyta.
 
 {% spoiler "Sprendimas :relieved: %}
 
-# Tutorial „išpręskime užduotį“
+
 
 ## 1 žingsnis: suprastį užduoties sąlygą
 
