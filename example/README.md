@@ -1,4 +1,4 @@
-{% spoiler "IT egzamino uzduotis"%}
+{% spoiler "IT egzamino uzduotis :scream:"%}
 
 # IV. Programavimo praktinės užduotys
 
@@ -55,6 +55,6 @@ kiek litrų aliejaus liko neišpilstyta.
 
 {% endspoiler %}
 
-## Kaip parašyti programą požingsniui :relieved:
+{% spoiler "Sprendimsa :relieved: %}
 
-
+{% endspoiler %}
