@@ -5,7 +5,7 @@ import check50.c
 def exists():
     """hello.c egzistuoja"""
     check50.exists("U1.c")
-    check50.include("8.txt")
+    check50.include("1.txt")
     
 @check50.check(exists)
 def compiles():
@@ -15,7 +15,7 @@ def compiles():
 @check50.check(compiles)
 def test1():
     """Atspausdina korektišką rezultatą"""
-    check_file(open("U1rez.txt").read(), open("8.txt").read())
+    check_file(open("U1rez.txt").read(), open("1.txt").read())
 
 def check_file(output, correct):
     if output == correct:
