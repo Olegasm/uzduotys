@@ -1,3 +1,5 @@
+{% spoiler "IT egzamino uzduotis"%}
+
 # IV. Programavimo praktinės užduotys
 
 Maksimalus vertinimas – 50 taškų:
@@ -50,6 +52,8 @@ kiek litrų aliejaus liko neišpilstyta.
 * Programoje nenaudokite sakinių, skirtų darbui su ekranu.
 
 <sup>1</sup> Pascal programavimo kalboje turi būti procedūra.
+
+{% endspoiler %}
 
 ## Kaip parašyti programą požingsniui :relieved:
 
