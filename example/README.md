@@ -59,6 +59,8 @@ kiek litrų aliejaus liko neišpilstyta.
 
 # Tutorial, kaip išpręsti užduotį požingsniui
 
+## Vaizdo medžiaga analizuojanti užduoties sąlygą
+
 {% video https://youtu.be/VtBuu8oIkFg %}
 
 {% endspoiler %}
