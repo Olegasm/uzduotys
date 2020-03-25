@@ -49,28 +49,22 @@ nebus, rašykite nulį. Jeigu bus nuostolis, užrašykite, koks (neigiamuoju ska
 
 ## Nurodymai
 
-* Sukurkite ir parašykite funkciją<sup>1</sup> , kuri suskaičiuotų, kiek buvo panaudota nurodytos talpos indų ir
+* Sukurkite ir parašykite funkciją<sup>1</sup>, kuri suskaičiuotų, kiek buvo panaudota nurodytos talpos indų ir
 kiek litrų aliejaus liko neišpilstyta.
 * Programoje nenaudokite sakinių, skirtų darbui su ekranu.
 
-<sup>1</sup> Pascal programavimo kalboje turi būti procedūra.
+<sup>1</sup>Pascal programavimo kalboje turi būti procedūra.
 
 {% endspoiler %}
 
-{% spoiler "Sprendimas :relieved: %}
+{% spoiler "Užduoties suvokimas :muscle: %}
 
+  {% spoiler "Vaizdo medžiaga :movie_camera:" %}
+  {% video https://youtu.be/VtBuu8oIkFg %}
+  {% endspoiler %}
 
-
-## 1 žingsnis: suprastį užduoties sąlygą
-
-{% spoiler "Vaizdo medžiaga :movie_camera:" %}
-{% video https://youtu.be/VtBuu8oIkFg %}
-{% endspoiler %}
-
-{% spoiler "Tekstinis vedlys :page_with_curl:" %}
-You can do it
-{% endspoiler %}
-
-## 2 žingsnis: 
+  {% spoiler "Tekstinis vedlys :page_with_curl:" %}
+  You can do it
+  {% endspoiler %} 
 
 {% endspoiler %}
