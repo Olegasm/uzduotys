@@ -75,6 +75,7 @@ You can do it! or not...
 
 {% spoiler "Programavimas :computer:" %}
 Pereikime prie dešinės ekrano pusės
+![Image of point left](https://media1.giphy.com/media/1n9At3XeXvyVZdydfK/giphy.gif)
 {% endspoiler %} 
 
 {% spoiler "2020 IT VBE užduotys :trollface:" %}
