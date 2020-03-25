@@ -9,7 +9,7 @@ def exists():
     
 @check50.check(exists)
 def compiles():
-    """U1.c kompiliuojasi."""
+    """U1.c kompiliuojasi"""
     check50.c.compile("U1.c", lcs50=True)
 
 @check50.check(exists)
@@ -19,7 +19,7 @@ def isOutput():
 
 @check50.check(isOutput)
 def test1():
-    """Atspausdina korektišką rezultatą"""
+    """Programa pateikia teisingą rezultatą"""
     check_file(open("U1rez.txt").read(), open("1.txt").read())
 
 def check_file(output, correct):
