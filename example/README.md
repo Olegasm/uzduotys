@@ -63,8 +63,8 @@ kiek litrų aliejaus liko neišpilstyta.
   {% video https://youtu.be/VtBuu8oIkFg %}
   {% endspoiler %}
 
-  {% spoiler "Tekstinis vedlys :page_with_curl:" %}
-  You can do it
-  {% endspoiler %} 
+{% spoiler "Tekstinis vedlys :page_with_curl:" %}
+You can do it
+{% endspoiler %} 
 
 {% endspoiler %}
