@@ -73,6 +73,9 @@ You can do it! or not...
 `To-Do`
 {% endspoiler %} 
 
+{% spoiler "Programavimas :computer:" %}
+Pereikime prie dešinės ekrano pusės
+{% endspoiler %} 
 
 {% spoiler "2020 IT VBE užduotys :trollface:" %}
 https://bit.ly/2xqI0ZT
