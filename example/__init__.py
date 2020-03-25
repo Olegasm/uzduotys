@@ -20,7 +20,8 @@ def isOutput():
 @check50.check(isOutput)
 def test1():
     """Programa pateikia teisingą rezultatą"""
-    check_file(open("U1rez.txt").read(), open("1.txt").read())
+    out = check50.run("./U1 U1rez.txt")
+    check_file(out, open("1.txt").read())
 
 def check_file(output, correct):
     if output == correct:
