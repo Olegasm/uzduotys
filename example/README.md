@@ -64,7 +64,17 @@ kiek litrų aliejaus liko neišpilstyta.
 {% endspoiler %}
 
 {% spoiler "Tekstinis vedlys :page_with_curl:" %}
-You can do it
+You can do it! or not...
 {% endspoiler %} 
 
 {% endspoiler %}
+
+{% spoiler "Skaldyk ir valdyk :sunglasses:" %}
+`To-Do`
+{% endspoiler %} 
+
+
+{% spoiler "2020 IT VBE užduotys :trollface:" %}
+https://bit.ly/2xqI0ZT
+{% endspoiler %} 
+
