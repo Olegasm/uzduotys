@@ -55,7 +55,7 @@ kiek litrų aliejaus liko neišpilstyta.
 
 {% endspoiler %}
 
-{% spoiler "Sprendimsa :relieved: %}
+{% spoiler "Sprendimas :relieved: %}
 
 # Tutorial, kaip išpręsti užduotį požingsniui
 
