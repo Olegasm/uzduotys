@@ -51,6 +51,6 @@ kiek litrų aliejaus liko neišpilstyta.
 
 <sup>1</sup> Pascal programavimo kalboje turi būti procedūra.
 
-## Kaip parašyti programą požingsniui :scream:
+## Kaip parašyti programą požingsniui :relieved:
 
 
