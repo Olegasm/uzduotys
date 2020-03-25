@@ -70,7 +70,7 @@ You can do it! or not...
 {% endspoiler %}
 
 {% spoiler "Skaldyk ir valdyk :sunglasses:" %}
-`To-Do`
+![Image of To-Do](https://pbs.twimg.com/media/C1jVr21XcAAosxF.jpg)
 {% endspoiler %} 
 
 {% spoiler "Programavimas :computer:" %}
