@@ -11,8 +11,13 @@ def exists():
 def compiles():
     """U1.c kompiliuojasi."""
     check50.c.compile("U1.c", lcs50=True)
-    
-@check50.check(compiles)
+
+@check50.check(exists)
+def isOutput():
+    """Rastas U1rez.txt"""
+    check50.exists("U1rez.txt") 
+
+@check50.check(isOutput)
 def test1():
     """Atspausdina korektišką rezultatą"""
     check_file(open("U1rez.txt").read(), open("1.txt").read())
