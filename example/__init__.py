@@ -17,3 +17,11 @@ def isOutput():
     """Rastas U1rez.txt"""
     check50.exists("U1rez.txt")
     
+@check50.check(compiles)
+def test1():
+    """handles a height of 8 correctly"""
+    compare_files(open("U1rez.txt").read(), open("1.txt").read())
+    
+def compare_files(output, correct):
+    if output == correct:
+        return
