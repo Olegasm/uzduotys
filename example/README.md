@@ -60,11 +60,11 @@ kiek litrų aliejaus liko neišpilstyta.
 {% spoiler "Užduoties suvokimas :muscle: %}
 
   {% spoiler "Vaizdo medžiaga :movie_camera:" %}
-  {% video https://youtu.be/VtBuu8oIkFg %}
+      {% video https://youtu.be/VtBuu8oIkFg %}
   {% endspoiler %}
 
   {% spoiler "Tekstinis vedlys :page_with_curl:" %}
-  You can do it
+      You can do it
   {% endspoiler %} 
 
 {% endspoiler %}
