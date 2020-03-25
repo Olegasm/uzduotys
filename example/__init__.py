@@ -1,5 +1,6 @@
 import check50
 import check50.c
+import filecmp
 
 @check50.check()
 def exists():
@@ -20,3 +21,7 @@ def isOutput():
 @check50.check(isOutput)
 def test1():
     """Programa pateikia teisingą rezultatą"""
+    check50.run("./U1 U1.txt)
+    filecmp.cmp('U1rez.txt', '1.txt')
+        
+    
