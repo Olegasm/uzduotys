@@ -57,15 +57,15 @@ kiek litrų aliejaus liko neišpilstyta.
 
 {% spoiler "Sprendimas :relieved: %}
 
-# Tutorial, kaip išpręsti užduotį požingsniui
+# Tutorial "išpręskime užduotį"
 
 ## 1 žingsnis: suprastį užduoties sąlygą
 
-{% spoiler "Vaizdo medžia" %}
+{% spoiler „Vaizdo medžiaga :movie_camera:“ %}
 {% video https://youtu.be/VtBuu8oIkFg %}
 {% endspoiler %}
 
-{% spoiler "Tekstinis vedlys" %}
+{% spoiler "Tekstinis vedlys :page_with_curl:" %}
 You can do it
 {% endspoiler %}
 
