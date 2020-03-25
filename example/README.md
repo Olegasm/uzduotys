@@ -50,3 +50,7 @@ kiek litrų aliejaus liko neišpilstyta.
 * Programoje nenaudokite sakinių, skirtų darbui su ekranu.
 
 <sup>1</sup> Pascal programavimo kalboje turi būti procedūra.
+
+## Kaip parašyti programą požingsniui :scream:
+
+
