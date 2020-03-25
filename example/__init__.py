@@ -22,7 +22,3 @@ def test1():
     """Programa pateikia teisingą rezultatą"""
     out = check50.run("./U1 U1rez.txt")
     check_file(out, open("1.txt").read())
-
-def check_file(output, correct):
-    if output == correct:
-        return False
