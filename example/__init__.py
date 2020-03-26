@@ -12,6 +12,11 @@ def exists():
 def compiles():
     """U1.c kompiliuojasi"""
     check50.c.compile("U1.c", lcs50=True)
+    
+@check50.check(exists)
+def compiles():
+    """hellp.cc kompiliuojasi"""
+    check50.c.compile("hellp.cc", lcs50=True)
 
 @check50.check(exists)
 def isOutput():
