@@ -20,7 +20,7 @@ def compiles():
 #    """testU1.cpp kompiliuojasi"""
 #    check50.c.compile("testU1.cpp", lcs50=True)
 
-@check50.check(exists)
+@check50.check(compiles)
 def testingCPP():
     """Ar pasileidžia sukompiliuotas CPP file'as"""
     out = check50.run("./testU1").stdin("1").stdout()
