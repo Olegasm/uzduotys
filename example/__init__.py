@@ -20,7 +20,7 @@ def isOutput():
     
 @check50.check(compiles)
 def test1():
-    """tikrina rezultatą"""
+    """Tikrina U1rez.txt rezultato korektiškumą"""
 #    out = check50.run("./U1 U1rez.txt").stdin("8").stdout()
 #    compare_files(out, open("1.txt").read())
     compare_files(open("U1rez.txt").read(), open("1.txt").read())
