@@ -7,6 +7,7 @@ def exists():
     """hello.c egzistuoja"""
     check50.exists("U1.c")
     check50.include("1.txt")
+    check50.include("2.txt")
 
 @check50.check(exists)
 def compiles():
@@ -22,9 +23,7 @@ def compiles1():
 def testingCPP():
     """Ar pasileidžia sukompiliuotas CPP file'as"""
     out = check50.run("./testU1").stdin("8").stdout()
-    if out == 1:
-        return
-    raise check50.Mismatch(1, out, help= None)
+    compare_values(out, open("2.txt").read())
     
 @check50.check(exists)
 def isOutput():
@@ -39,6 +38,11 @@ def test1():
     compare_files(open("U1rez.txt").read(), open("1.txt").read())
     
 def compare_files(output, correct):
+    if output == correct:
+        return 
+    raise check50.Mismatch(correct, output, help= None)
+
+def compare_values(output, correct):
     if output == correct:
         return 
     raise check50.Mismatch(correct, output, help= None)
