@@ -27,4 +27,4 @@ def test1():
 def compare_files(output, correct):
     if filecmp.cmp(output, correct):
         return 
-    raise check50.Mismatch("hello, world\n", actual, help=help)
+    raise check50.Mismatch("U1rez.txt", "Nesutampa rezultatas", help=help)
