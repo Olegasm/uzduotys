@@ -3,6 +3,7 @@ check50:
     - !exclude "*"
     - !require U1.c
     - !require U1rez.txt
+    - !require testU1.cpp
 
 lab50:
   files:
