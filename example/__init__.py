@@ -21,7 +21,7 @@ def compiles1():
 @check50.check()
 def testingCPP():
     """Ar pasileidžia sukompiliuotas CPP file'as"""
-    out = check50.run("./testU1").stdin("8").stdout()
+    out = check50.run("./testU1 std=None").stdin("8").stdout()
     compare_values(out, open("1.txt").read())
     
 @check50.check(exists)
