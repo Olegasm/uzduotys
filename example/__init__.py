@@ -46,7 +46,7 @@ def compare_files(output, correct):
         return 
     raise check50.Mismatch(correct, output, help= None)
 
-def read_first_file_line(exists)
+def read_first_file_line(exists):
     """Ar teisingai pripilti indai ir kiek liko aliejaus"""
     compare_files(open("U1rez.txt").readline(), open("1.txt").readline())
     
