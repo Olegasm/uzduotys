@@ -27,4 +27,4 @@ def test1():
 def compare_files(output, correct):
     if output == correct:
         return 
-    raise check50.Mismatch("U1rez.txt", "Nesutampa rezultatas", help= None)
+    raise check50.Mismatch(correct, output, help= None)
