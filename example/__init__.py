@@ -36,7 +36,7 @@ def test1():
     """Tikrina U1rez.txt rezultato korektiškumą"""
 #    out = check50.run("./U1 U1rez.txt").stdin("8").stdout()
 #    compare_files(out, open("1.txt").read())
-    compare_files(open("U1rez.txt").read(), open("1.txt").read())
+    compare_files(open("U1rez.txt").read(), open("2.txt").read())
     
 def compare_files(output, correct):
     if output == correct:
