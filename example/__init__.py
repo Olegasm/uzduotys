@@ -21,10 +21,10 @@ def isOutput():
 @check50.check(compiles)
 def test1():
     """tikrina rezultatą"""
-    check50.run("./U1 U1rez.txt")
-    compare_files("U1rez.txt","1.txt")
+    out = check50.run("./U1 U1rez.txt").stdin("8").stdout()
+    compare_files(out, open("8.txt").read())
     
 def compare_files(output, correct):
-    if filecmp.cmp(output, correct):
+    if output == correct:
         return 
     raise check50.Mismatch("U1rez.txt", "Nesutampa rezultatas", help=help)
