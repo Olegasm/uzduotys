@@ -21,7 +21,7 @@ def compiles1():
 @check50.check()
 def testingCPP():
     """Ar pasileidžia sukompiliuotas CPP file'as"""
-    out = check50.run("./testU1.cpp").stdin("8").stdout()
+    out = check50.run("./testU1").stdin("8").stdout()
     if out == 1:
         return
     raise check50.Mismatch(1, out, help= None)
