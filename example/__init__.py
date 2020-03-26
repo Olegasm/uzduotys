@@ -36,7 +36,7 @@ def isOutput():
     
 @check50.check(exists)    
 def read_first_file_line(exists):
-    """Ar teisingai apskaičiuoja pripiltų indų ir liksio aliejaus skaičius?"""
+    """Ar teisingai apskaičiuoja pripiltų indų ir likusio aliejaus skaičius?"""
     compare_files(open("U1rez.txt").readline(), open("1.txt").readline())
     
 @check50.check(compiles)
