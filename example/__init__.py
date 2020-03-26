@@ -20,13 +20,14 @@ def compiles():
 #    """testU1.cpp kompiliuojasi"""
 #    check50.c.compile("testU1.cpp", lcs50=True)
 
-@check50.check(compiles)
-def testingCPP():
-    """Ar pasileidžia sukompiliuotas CPP file'as"""
+# bandymas paleisti sukompiliuota .cpp file'ą, bet nesigauna.
+#@check50.check(compiles)
+#def testingCPP():
+#    """Ar pasileidžia sukompiliuotas CPP file'as"""
 #    out = check50.run("./testU1").stdin("1").stdout()
 #    out = check50.run("./testU1").stdout()
 #    compare_values(out, open("2.txt").read())
-    check50.run("./testU1").stdout(1)
+#    check50.run("./testU1").stdout(1)
     
 @check50.check(exists)
 def isOutput():
@@ -45,7 +46,8 @@ def compare_files(output, correct):
         return 
     raise check50.Mismatch(correct, output, help= None)
 
-def compare_values(output, correct):
-    if output == correct:
-        return 
-    raise check50.Mismatch(correct, output, help= None)
+# Skirta .cpp output patikrinimui
+#def compare_values(output, correct):
+#    if output == correct:
+#        return 
+#    raise check50.Mismatch(correct, output, help= None)
