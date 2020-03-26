@@ -22,8 +22,7 @@ def isOutput():
 def test1():
     """tikrina rezultatą"""
     check50.run("./U1 U1rez.txt")
-    compare_files(open("U1rez.txt").read(), open("1.txt").read())
+    compare_files("U1rez.txt","1.txt")
     
 def compare_files(output, correct):
-    if output == correct:
-        return
+    return filecmp.cmp(output, correct)
