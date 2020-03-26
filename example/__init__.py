@@ -13,10 +13,13 @@ def compiles():
     """U1.c kompiliuojasi"""
     check50.c.compile("U1.c", lcs50=True)
 
+```
+bandymas patikrinti ar .cpp file'as kompiliuojasi
 @check50.check(exists)
 def compiles1():
     """testU1.cpp kompiliuojasi"""
     check50.c.compile("testU1.cpp", lcs50=True)
+```
 
 @check50.check()
 def testingCPP():
