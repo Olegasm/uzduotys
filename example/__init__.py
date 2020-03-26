@@ -22,7 +22,7 @@ def isOutput():
 def test1():
     """tikrina rezultatą"""
     out = check50.run("./U1 U1rez.txt").stdin("8").stdout()
-    compare_files(out, open("8.txt").read())
+    compare_files(out, open("1.txt").read())
     
 def compare_files(output, correct):
     if output == correct:
