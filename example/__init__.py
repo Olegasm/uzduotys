@@ -4,7 +4,7 @@ import filecmp
 
 @check50.check()
 def exists():
-    """hello.c egzistuoja"""
+    """U1.c egzistuoja"""
     check50.exists("U1.c")
     check50.include("1.txt", "2.txt")
 
