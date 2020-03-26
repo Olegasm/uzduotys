@@ -11,3 +11,7 @@ lab50:
     - !include "U1.txt"
     - !include "U1.c"
     
+submit50:
+  files:
+    - !exclude "*"
+    - !include "U1.c"
