@@ -6,7 +6,7 @@ import filecmp
 def exists():
     """hello.c egzistuoja"""
     check50.exists("U1.c")
-    check50.include("1.txt", "2.txt")
+    check50.include("1.txt")
 
 @check50.check(exists)
 def compiles():
@@ -41,7 +41,8 @@ def compare_files(output, correct):
         return 
     raise check50.Mismatch(correct, output, help= None)
 
-def compare_values(output, correct):
-    if output == correct:
+def compare_values(output):
+    a = 1
+    if output == a:
         return 
-    raise check50.Mismatch(correct, output, help= None)
+    raise check50.Mismatch(a, output, help= None)
