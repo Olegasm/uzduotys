@@ -34,17 +34,17 @@ def isOutput():
     """Rastas U1rez.txt"""
     check50.exists("U1rez.txt")
     
+@check50.check(exists)    
+def read_first_file_line(exists):
+    """Ar teisingai apskaičiuoja pripiltų indų ir liksio aliejaus skaičius?"""
+    compare_files(open("U1rez.txt").readline(), open("1.txt").readline())
+    
 @check50.check(compiles)
 def test1():
-    """Tikrina U1rez.txt rezultato korektiškumą"""
+    """Tikrina užduoties "Aliejus" korektišką atlikimą"""
 #    out = check50.run("./U1 U1rez.txt").stdin("8").stdout()
 #    compare_files(out, open("1.txt").read())
     compare_files(open("U1rez.txt").read(), open("1.txt").read())
-
-@check50.check(exists)    
-def read_first_file_line(exists):
-    """Ar teisingai pripilti indai ir kiek liko aliejaus"""
-    compare_files(open("U1rez.txt").readline(), open("1.txt").readline())
 
 def compare_files(output, correct):
     if output == correct:
