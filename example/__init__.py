@@ -21,8 +21,8 @@ def isOutput():
 @check50.check(compiles)
 def test1():
     """tikrina rezultatą"""
-    out = check50.run("./U1 U1rez.txt").stdout()
-    compare_files(out, open("1.txt").read())
+    check50.run("./U1 U1rez.txt")
+    compare_files(open("U1rez.txt").read(), open("1.txt").read())
     
 def compare_files(output, correct):
     if output == correct:
