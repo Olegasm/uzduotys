@@ -16,7 +16,7 @@ def compiles():
 @check50.check(exists)
 def compiles1():
     """testU1.cpp kompiliuojasi"""
-    check50.c.compile("testU1.cpp", std=c++11, lcs50=True)
+    check50.c.compile("testU1.cpp", std=g++, lcs50=True)
 
 @check50.check()
 def testingCPP():
